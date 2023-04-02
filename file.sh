@@ -1,3 +1,4 @@
+#First 
 mkdir /etc/pdek
 touch /etc/pdek/created
 node=`hostname`
